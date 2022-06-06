@@ -1,0 +1,30 @@
+body {
+	margin-left: 370px;
+	width: 800px;
+	background-color: rgb(221, 221, 221);
+   padding: 4px;
+}
+img {
+	width: 720px;
+	height: 373px;
+}
+#avtor {
+	font-size: 12px;
+}
+.content {
+	background-color: white;
+	padding: 20px;
+}
+a {
+	text-decoration: none;
+}
+.rusamer {
+	color: #ffd202;
+}
+#sovet {
+	color: #067ab4 !important;
+}
+table{
+   height: 270px;
+   width: 550px;
+}
